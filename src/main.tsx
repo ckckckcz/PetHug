@@ -3,6 +3,7 @@ import ReactDOM from "react-dom/client";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import { QueryClient, QueryClientProvider } from "react-query";
 import '../public/css/global.css'
+import '../public/css/Navbar.css'
 import Home from './pages/Home'
 import Login from "./pages/auth/Login"
 
